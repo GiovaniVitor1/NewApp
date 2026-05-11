@@ -21,8 +21,4 @@ Este projeto é um aplicativo web desenvolvido com Streamlit para visualizar dad
 
 ## Link do aplicativo
 
-Adicione aqui o link do app publicado no Render:
-
-## Aplicação online
-
 https://newapp-1-fnpv.onrender.com
